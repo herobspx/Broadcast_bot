@@ -1,1 +1,5 @@
 python-telegram-bot[job-queue]==21.6
+httpx==0.27.0
+Pillow==11.1.0
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
